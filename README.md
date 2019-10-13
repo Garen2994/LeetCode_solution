@@ -1,2 +1,2 @@
 # leetcode_solution
-leetcode solution in Iava by Garen
+leetcode solution in J]ava by Garen
