@@ -6,5 +6,14 @@ Solved：
 
 Easy：
 
-- [ ] 1. Two sum
-- [ ] 7. 
+- [x] 1. Two sum
+
+- [x] 7. Reverse integer
+
+- [x] 9. Palindrome number
+
+- [ ] 13. Roman to integer
+
+- [ ] 14. Longest common prefix
+
+  
